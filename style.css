@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(lightblue,rgb(216, 244, 133),lightgreen,cyan);
+    font-family: 'Pangolin', cursive;
+}
+.heading
+{
+font-size: 35px;
+width: 100%;
+margin: 0px;
+}
+#status
+{
+font-size: 20px;
+}
+.room{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    padding:15px;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    width:30%;
+}
+canvas{
+    margin-top: 150px;
+    border: 8px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px gray;
+
+}
